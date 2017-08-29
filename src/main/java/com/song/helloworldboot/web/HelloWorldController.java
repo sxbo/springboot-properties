@@ -1,4 +1,4 @@
-package com.song.helloworldboot;
+package com.song.helloworldboot.web;
 
 
 import org.springframework.web.bind.annotation.RequestMapping;
